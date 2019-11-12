@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.api.test.RestTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-11-12T21:34:28" hostname="DESKTOP-GNRSRMV" time="5.285">
+  <properties/>
+  <testcase name="getNameById" classname="demo.api.test.RestTest" time="3.533"/>
+  <testcase name="getNameByWrongId" classname="demo.api.test.RestTest" time="0.255"/>
+  <testcase name="getUsersList" classname="demo.api.test.RestTest" time="1.178"/>
+  <testcase name="getUsersListWithCount" classname="demo.api.test.RestTest" time="0.31"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
